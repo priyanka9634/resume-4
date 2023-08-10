@@ -1,16 +1,16 @@
 -- import: fastn-community.github.io/code-block as cb
--- import: priyanka9634.github.io/resume-3
+-- import: priyanka9634.github.io/resume-4
 -- import: fifthtry.github.io/resume/sample as s
 
 
 -- site-doc.doc-home: Project Info
-site-title: resume-3
+site-title: resume-4
 show-tabs: false
 
--- site-doc.component-doc: `resume-3`
-package-link: priyanka9634.github.io/resume-3
-package-name: priyanka9634.github.io/resume-3
-info: `-- resume-3` can be used as resume on your fastn web projects.
+-- site-doc.component-doc: `resume-4`
+package-link: priyanka9634.github.io/resume-4
+package-name: priyanka9634.github.io/resume-4
+info: `-- resume-4` can be used as resume on your fastn web projects.
 
 -- site-doc.header: How to use
 
@@ -18,12 +18,12 @@ info: `-- resume-3` can be used as resume on your fastn web projects.
 lang: ftd
 
 \-- fastn.dependency: fifthtry.github.io/resume
-\-- fastn.dependency: fifthtry.github.io/resume-3
+\-- fastn.dependency: fifthtry.github.io/resume-4
 
 -- cb.code: Import `resume` into your `.ftd` file
 lang: ftd
 
-\-- import: fifthtry.github.io/resume-3
+\-- import: fifthtry.github.io/resume-4
 \-- import: fifthtry.github.io/resume as cv
 
 -- cb.code: Write below code to your `.ftd` file
